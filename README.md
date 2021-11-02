@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-This is the repo for Postseason, on a mission to help athletes thrive off the field.
+This is the GitHub for Postseason, on a mission to help athletes thrive off the field.
 <!--
 **postseason/postseason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
